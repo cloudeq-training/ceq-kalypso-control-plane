@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/cloudeq-training/ceq-kalypso-control-plane
   branch: main
   path: .
-  commit: 0d5afd9543f796a87ae66c2e767fddbd650d645f
+  commit: 4f8d63148f2052e31093de83c78d83e331e26edc
